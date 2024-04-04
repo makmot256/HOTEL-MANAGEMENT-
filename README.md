@@ -1,2 +1,2 @@
-# HOTEL-MANAGEMENT-
-Website for hotel management 
+# WebDevAssignment
+# WebDevAssignment
